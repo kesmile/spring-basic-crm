@@ -1,4 +1,3 @@
-# Spring basic crm
 # Spring Basic CRM
 
 A basic Customer Relationship Management (CRM) system built with Spring Boot.
